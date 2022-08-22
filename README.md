@@ -25,7 +25,7 @@
 ![image](https://user-images.githubusercontent.com/110647839/185963538-0d2ef641-0f4d-4684-9ef8-26ced0a316cc.png)
 
 9.Find the max number from ArrayList.
-![image](https://user-images.githubusercontent.com/110647839/185963583-bb4d3349-49ec-45bd-a9af-5393e0d537d9.png)
+![image](https://user-images.githubusercontent.com/110647839/185963945-987d2007-07b6-48f2-a85e-84c61ef97539.png)
 
 10.Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
 ![image](https://user-images.githubusercontent.com/110647839/185963676-4a256454-4b82-46d4-a0e0-e4f96e47e846.png)
