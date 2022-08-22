@@ -1,33 +1,33 @@
 # MADPractical1_20012011003
 
 1.Store & Display values in different variable of different type (Integer, Double, Float, Long, Short, Byte, Char, Boolean, String).
-![Screenshot](https://user-images.githubusercontent.com/110647839/183276570-552ac6c0-6822-46d2-978d-db7c6235e25a.png)
+![image](https://user-images.githubusercontent.com/110647839/185968184-691f4f29-2f1e-4c3e-bfd5-8e59f9cdfff3.png)
 
 2.Type conversion:Integer to Double, String to Integer, String to Double.
-![Screenshot (1)](https://user-images.githubusercontent.com/110647839/183276612-9f2b773a-59f7-48c1-84a1-32a1f7486cea.png)
+![image](https://user-images.githubusercontent.com/110647839/185968272-36184919-f964-4969-aa25-4db52790fd6c.png)
 
 3.Scan student’s information and display all the data.
-![Screenshot (2)](https://user-images.githubusercontent.com/110647839/183276637-effaf8f8-e9f2-4867-b70c-d16cbe13935e.png)
+![image](https://user-images.githubusercontent.com/110647839/185968560-c2a51d17-7124-4e6a-99f2-cb2e79ac80db.png)
 
 4.Find the number is odd or even by using Control Flow inside println() method.
-![Screenshot (3)](https://user-images.githubusercontent.com/110647839/183276651-f5d346b8-3dc5-474a-a06c-df185a5bc30d.png)
+![image](https://user-images.githubusercontent.com/110647839/185968661-d61f6ab6-fb40-41e7-8ac6-63093183789f.png)
 
 5.Display month name using When.
-![Screenshot (4)](https://user-images.githubusercontent.com/110647839/183276664-587985ac-bd8f-4cbe-af79-38fde70a2ae5.png)
+![image](https://user-images.githubusercontent.com/110647839/185968732-ef1ba3da-2c73-4d1c-80e2-2e64280e437c.png)
 
 6.By using a user defined function perform all arithmetic operations.
-![Screenshot (10)](https://user-images.githubusercontent.com/110647839/183276680-1f83caea-72d5-4140-81fa-abc76b62f559.png)
+![image](https://user-images.githubusercontent.com/110647839/185968825-b4e86bfb-391a-46ef-8e25-6557f556f025.png)
 
 7.Find the factorial of number by recursion. Explain "tailrec" keyword.
-![image](https://user-images.githubusercontent.com/110647839/185963463-31fb2a96-064a-4cd0-a179-27a1818a9eda.png)
+![image](https://user-images.githubusercontent.com/110647839/185968893-d6c94ca8-60e6-4f1e-913e-b72d819cdf36.png)
 
 8.Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function.
-![image](https://user-images.githubusercontent.com/110647839/185963538-0d2ef641-0f4d-4684-9ef8-26ced0a316cc.png)
+![image](https://user-images.githubusercontent.com/110647839/185969198-9ccadeca-1025-482d-8f84-209ceec4c64a.png)
 
 9.Find the max number from ArrayList.
-![image](https://user-images.githubusercontent.com/110647839/185963945-987d2007-07b6-48f2-a85e-84c61ef97539.png)
+![image](https://user-images.githubusercontent.com/110647839/185969319-d956dfa0-b487-49a8-8f55-065d4fa7e5ae.png)
 
 10.Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
-![image](https://user-images.githubusercontent.com/110647839/185963676-4a256454-4b82-46d4-a0e0-e4f96e47e846.png)
+![image](https://user-images.githubusercontent.com/110647839/185969383-1a28d16b-b6fb-4fb4-9546-54593f285e84.png)
 
 11.Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
