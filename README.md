@@ -17,3 +17,17 @@
 
 6.By using a user defined function perform all arithmetic operations.
 ![Screenshot (10)](https://user-images.githubusercontent.com/110647839/183276680-1f83caea-72d5-4140-81fa-abc76b62f559.png)
+
+7.Find the factorial of number by recursion. Explain "tailrec" keyword.
+![image](https://user-images.githubusercontent.com/110647839/185963463-31fb2a96-064a-4cd0-a179-27a1818a9eda.png)
+
+8.Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function.
+![image](https://user-images.githubusercontent.com/110647839/185963538-0d2ef641-0f4d-4684-9ef8-26ced0a316cc.png)
+
+9.Find the max number from ArrayList.
+![image](https://user-images.githubusercontent.com/110647839/185963945-987d2007-07b6-48f2-a85e-84c61ef97539.png)
+
+10.Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
+![image](https://user-images.githubusercontent.com/110647839/185963676-4a256454-4b82-46d4-a0e0-e4f96e47e846.png)
+
+11.Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
