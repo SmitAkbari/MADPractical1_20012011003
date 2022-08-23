@@ -34,7 +34,7 @@
 ![image](https://user-images.githubusercontent.com/110647839/185999774-e0ab920d-b6c9-43f1-80d6-56e2b104e865.png)
 
 Exercise1
-![image](https://user-images.githubusercontent.com/110647839/186206922-0cd270b3-f51d-4e9f-a01e-a0a9a92b28d1.png)
+![image](https://user-images.githubusercontent.com/110647839/186207291-13eace82-32f1-409d-957a-3be737b7ad97.png)
 
 Exercise2
 ![image](https://user-images.githubusercontent.com/110647839/186206995-61d1235a-524f-4395-b8a2-8c8d3489ce69.png)
