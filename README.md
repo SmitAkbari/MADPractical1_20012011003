@@ -32,3 +32,12 @@
 
 11.Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class & operator overloading. Overload toString() function in Matrix class.
 ![image](https://user-images.githubusercontent.com/110647839/185999774-e0ab920d-b6c9-43f1-80d6-56e2b104e865.png)
+
+Exercise1
+![image](https://user-images.githubusercontent.com/110647839/186206922-0cd270b3-f51d-4e9f-a01e-a0a9a92b28d1.png)
+
+Exercise2
+![image](https://user-images.githubusercontent.com/110647839/186206995-61d1235a-524f-4395-b8a2-8c8d3489ce69.png)
+
+Exercise3
+![image](https://user-images.githubusercontent.com/110647839/186207031-47be6c6b-2270-4459-8b82-564c630d09dc.png)
